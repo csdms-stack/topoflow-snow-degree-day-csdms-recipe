@@ -1,4 +1,4 @@
-{% set name = "topoflow-snow-degree-day-csdms" %}
+{% set name = "csdms-topoflow-snow-degree-day" %}
 {% set version = "3.4" %}
 
 package:
